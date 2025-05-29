@@ -1,1 +1,2 @@
-A simple Shopping List app built as my first Android Studio project. Users can add items with names, quantities, and delivery addresses. This project showcases my understanding of basic Android development, user input handling, and UI design.
+📱 Shopping List App
+A beginner-friendly Android app developed as my first project in Android Studio. It lets users add shopping items with names, quantities, and delivery addresses. Built to explore Android fundamentals like UI design, user input handling, and basic data storage.
